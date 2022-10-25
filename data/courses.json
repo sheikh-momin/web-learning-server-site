@@ -9,16 +9,27 @@
       "details":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript."
   },
   {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "category_id": "01",
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "02",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "CSS for style your web page",
-      "img":"./images/css.png"
+      "img":"./images/css.png",
+      "details":""
   },
   {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "category_id": "01",
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Learn JavaScript for workable your website",
+      "img":"./images/js.png",
+      "details":"JavaScript (/ˈdʒɑːvəskrɪpt/), often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices."
+  },
+  
+  {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+      "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "",
@@ -26,26 +37,8 @@
       "details":
   },
   {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "",
-      "img":"",
-      "details":
-  },
-  {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "",
-      "img":"",
-      "details":
-  },
-  {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "category_id": "01",
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+      "category_id": "06",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "",
