@@ -2,7 +2,7 @@
   {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
       "category_id": "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
+      "rating": 4.5,
       "total_view": 488,
       "title": "HTML for beginner",
       "img":"https://img.freepik.com/free-photo/design-html-web-design-template-concept_53876-120438.jpg?w=1800&t=st=1666730154~exp=1666730754~hmac=d9434cac3335b32d1d0c890f59cc41de5ff33b5866a4c4d5effd53189509a132",
@@ -11,7 +11,7 @@
   {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
       "category_id": "02",
-      "rating": { "number": 4.5, "badge": "Excellent" },
+      "rating": 4.5,
       "total_view": 488,
       "title": "CSS for style your web page",
       "img":"https://img.freepik.com/premium-vector/css-word-lettering-typography-design-illustration-with-line-icons-ornaments-orange_9233-187.jpg?w=1380",
@@ -20,7 +20,7 @@
   {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
       "category_id": "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
+      "rating": 4.5,
       "total_view": 488,
       "title": "Learn JavaScript for workable your website",
       "img":"https://img.freepik.com/free-vector/javascript-abstract-concept-illustration_335657-3702.jpg?w=900&t=st=1666730339~exp=1666730939~hmac=890ba8022524ec9f4e39e7413dd845e5c1beebde21f1138e351fef00d322d8e0",
@@ -29,7 +29,7 @@
   {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
       "category_id": "04",
-      "rating": { "number": 4.5, "badge": "Excellent" },
+      "rating": 4.5,
       "total_view": 488,
       "title": "React (JavaScript library)",
       "img":"https://img.freepik.com/premium-vector/react-native-creation-crossplatform-programs-applications_569023-43.jpg?w=900",
@@ -38,7 +38,7 @@
   {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
       "category_id": "05",
-      "rating": { "number": 4.5, "badge": "Excellent" },
+      "rating": 4.5,
       "total_view": 488,
       "title": "Learn Tailwind for CSS framework",
       "img":"https://img.freepik.com/free-vector/responsive-concept-illustration_114360-674.jpg?w=900&t=st=1666730641~exp=1666731241~hmac=c18b5c2dc01b2d9e115281de5b83b65e384171b1964d335f3932ae82777c14ad",
@@ -47,7 +47,7 @@
   {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
       "category_id": "06",
-      "rating": { "number": 4.5, "badge": "Excellent" },
+      "rating": 4.5,
       "total_view": 488,
       "title": "Bootstrap (front-end framework)",
       "img":"https://as2.ftcdn.net/v2/jpg/04/20/50/99/1000_F_420509939_4qvojQXtaVp5C1a61LVUTfZTZnIHAFC5.jpg",

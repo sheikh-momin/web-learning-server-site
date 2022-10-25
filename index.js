@@ -15,8 +15,9 @@ app.get('/web-categories', (req, res)=>{
   res.send(categories)
 })
 
-app.get('/course', (req, res) =>{
-  res.send(courses)
+app.get('/categories', (req, res) =>{
+  const allCourses= courses.map(c=>c)
+  res.send(allCourses)
 })
 
 app.get('/courses/:id', (req, res) => {
