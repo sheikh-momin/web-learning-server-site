@@ -5,7 +5,7 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "HTML for beginner",
-      "img":"./images/html.jpg",
+      "img":"https://img.freepik.com/free-photo/design-html-web-design-template-concept_53876-120438.jpg?w=1800&t=st=1666730154~exp=1666730754~hmac=d9434cac3335b32d1d0c890f59cc41de5ff33b5866a4c4d5effd53189509a132",
       "details":"The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript."
   },
   {
@@ -14,7 +14,7 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "CSS for style your web page",
-      "img":"./images/css.png",
+      "img":"https://img.freepik.com/premium-vector/css-word-lettering-typography-design-illustration-with-line-icons-ornaments-orange_9233-187.jpg?w=1380",
       "details":"Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).[1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.[2]"
   },
   {
@@ -23,7 +23,7 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "Learn JavaScript for workable your website",
-      "img":"./images/js.png",
+      "img":"https://img.freepik.com/free-vector/javascript-abstract-concept-illustration_335657-3702.jpg?w=900&t=st=1666730339~exp=1666730939~hmac=890ba8022524ec9f4e39e7413dd845e5c1beebde21f1138e351fef00d322d8e0",
       "details":"JavaScript (/ˈdʒɑːvəskrɪpt/), often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices."
   },
   {
@@ -32,7 +32,7 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "React (JavaScript library)",
-      "img":"./images/react.png",
+      "img":"https://img.freepik.com/premium-vector/react-native-creation-crossplatform-programs-applications_569023-43.jpg?w=900",
       "details":"React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6] React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.[7][8]"
   },
   {
@@ -41,7 +41,7 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "Learn Tailwind for CSS framework",
-      "img":"./images/tailwind.png",
+      "img":"https://img.freepik.com/free-vector/responsive-concept-illustration_114360-674.jpg?w=900&t=st=1666730641~exp=1666731241~hmac=c18b5c2dc01b2d9e115281de5b83b65e384171b1964d335f3932ae82777c14ad",
       "details":"Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables. Instead, it creates a list of utility CSS classes that can be used to style each element by mixing and matching."
   },
   {
@@ -50,7 +50,7 @@
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": "Bootstrap (front-end framework)",
-      "img":"./images/bootstrap.jpg",
+      "img":"https://as2.ftcdn.net/v2/jpg/04/20/50/99/1000_F_420509939_4qvojQXtaVp5C1a61LVUTfZTZnIHAFC5.jpg",
       "details":"Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components."
   }
   
